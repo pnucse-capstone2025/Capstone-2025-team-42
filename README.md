@@ -113,5 +113,7 @@ make
 #### 8. 참고자료
 
 [1] I. Song et al., ‘ConfZNS : A Novel Emulator for Exploring Design Space of ZNS SSDs’, Proceedings of the 16th ACM International Conference on Systems and Storage, pp. 71–82, June 2023, doi: 10.1145/3579370.3594772.
+
 [2] S. Dong, A. Kryczka, Y. Jin, and M. Stumm, ‘RocksDB: Evolution of Development Priorities in a Key-value Store Serving Large-scale Applications’, ACM Trans. Storage, vol. 17, no. 4, p. 26:1-26:32, Oct. 2021, doi: 10.1145/3483840.
+
 [3] M. Bjørling et al., ‘{ZNS}: Avoiding the Block Interface Tax for Flash-based {SSDs}’, presented at the 2021 USENIX Annual Technical Conference (USENIX ATC 21), 2021, pp. 689–703.
