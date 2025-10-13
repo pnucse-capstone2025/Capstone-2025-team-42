@@ -110,6 +110,7 @@ make
 | 논문 스터디 주관 | BlobDB 환경 하에서 ZenFS 분석  | BlobDB GC 분석 |
 | BlobDB 분석  | BlobDB 분석  | BlobDB 분석  |
 | 성능 평가 및 결과 분석  | 성능 평가 및 결과 분석  | 성능 평가 및 결과 분석  |
+
 #### 8. 참고자료
 
 [1] I. Song et al., ‘ConfZNS : A Novel Emulator for Exploring Design Space of ZNS SSDs’, Proceedings of the 16th ACM International Conference on Systems and Storage, pp. 71–82, June 2023, doi: 10.1145/3579370.3594772.
